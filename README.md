@@ -6,7 +6,7 @@ Este projeto foi desenvolvido durante o **Desafio 01 da Trilha de CSS da DIO**. 
 ### **Acesse o Projeto Finalizado**
 O projeto está completo e pode ser visualizado clicando no link abaixo:
 
-[**Acesse a Landing Page**](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/)
+[**Acesse a Landing Page**](https://alexanderjr02.github.io/Site-trilha-css-dio/)
 
 ![Imagem da Landing Page](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
