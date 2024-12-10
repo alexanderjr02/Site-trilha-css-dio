@@ -1,0 +1,25 @@
+/* Estilização do footer */
+footer {
+  border-top: 1px solid #33a8db80;
+  text-align: center;
+  height: 200px;
+  padding: 60px;
+  background-image: linear-gradient(
+    rgba(50, 168, 219, 0),
+    rgba(50, 168, 219, 0.2)
+  );
+}
+
+footer .dio-logo {
+  width: 300px;
+}
+
+footer p {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #33a8db;
+}
